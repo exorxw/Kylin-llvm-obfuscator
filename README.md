@@ -6,7 +6,7 @@ wiki: [obfuscator-wiki](https://github.com/obfuscator-llvm/obfuscator/wiki)
 ### Build
 
 ```shell
-$ git clone Kylin https://github.com/exorxw/Kylin-obfuscator.git
+$ git clone Kylin https://github.com/exorxw/Kylin-llvm-obfuscator.git
 $ mkdir build
 $ cd build
 $ cmake -DCMAKE_BUILD_TYPE=Release ../Kylin/
